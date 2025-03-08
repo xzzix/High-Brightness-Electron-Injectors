@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>High Brightness Electron Injectors - USPAS Summer 2025</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      max-width: 800px;
+    }
+    h1, h2 {
+      color: #003366;
+    }
+    a {
+      color: #0066CC;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    p {
+      line-height: 1.6;
+    }
+    ul {
+      list-style-type: square;
+      margin-left: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>High Brightness Electron Injectors</h1>
+  <p>
+    <strong>Session:</strong> USPAS Summer 2025 (August 4-8, 2025) <br>
+    <strong>Instructors:</strong> Prof. Pietro Musumeci, Dr. Daniele Filippetto <br>
+    <strong>Teaching Assistants:</strong> Paul E. Denham, Brian Schaap
+  </p>
+  
+  <h2>Course Description</h2>
+  <p>
+    Welcome to the High Brightness Electron Injectors course at the 2025 USPAS.
+    This course covers theory, experiments, and hands-on simulations for 
+    electron injectors. You’ll find all daily schedules, lecture materials, 
+    and homework assignments via the links below.
+  </p>
+  
+  <h2>Schedule & Materials</h2>
+  <ul>
+    <li>
+      <strong>Daily Schedule Spreadsheet:</strong>
+      <a href="https://docs.google.com/spreadsheets/EXAMPLE" target="_blank">
+        Google Sheets Link
+      </a>
+      <br>(Replace this link with your actual schedule URL.)
+    </li>
+    <li>
+      <strong>Lecture Slides & Notes:</strong>
+      <a href="https://drive.google.com/drive/folders/EXAMPLE" target="_blank">
+        Google Drive Folder
+      </a>
+    </li>
+    <li>
+      <strong>Video Recordings:</strong>
+      <a href="https://drive.google.com/drive/folders/EXAMPLE" target="_blank">
+        Lecture Recordings
+      </a>
+    </li>
+    <li>
+      <strong>Homework & Exams Folder:</strong>
+      <a href="https://drive.google.com/drive/folders/EXAMPLE" target="_blank">
+        Homework on Google Drive
+      </a>
+    </li>
+  </ul>
+
+  <p>
+    <em>Note:</em> Links above are placeholders. Replace them with your actual 
+    Google Drive (or other cloud) share links.
+  </p>
+  
+  <h2>Contact</h2>
+  <p>
+    If you have any questions, feel free to email:
+  </p>
+  <ul>
+    <li>
+      Prof. Pietro Musumeci 
+      (<a href="mailto:musumeci@physics.ucla.edu">musumeci@physics.ucla.edu</a>)
+    </li>
+    <li>
+      Dr. Daniele Filippetto
+      (<a href="mailto:daniele.filippetto22@gmail.com">daniele.filippetto22@gmail.com</a>)
+    </li>
+    <li>
+      Dr. Brian Schaap 
+      (<a href="mailto:schaap@physics.ucla.edu">schaap@physics.ucla.edu</a>)
+    </li>
+    <li>
+      Dr. Paul E. Denham
+      (<a href="mailto:pdenham@physics.ucla.edu">pdenham@physics.ucla.edu</a>)
+    </li>
+  </ul>
+
+</body>
+</html>
+
